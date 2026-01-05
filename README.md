@@ -18,4 +18,4 @@ The full interactive Power BI file (.pbix) is available for download here:
 👉 **[Download Retail Rocket Dashboard (95MB)](https://drive.google.com/file/d/1TRcXeSn07dZikgYXg9tlXzIaXetZ23m4/view?usp=sharing)**
 
 ### 📷 Dashboard Snapshot
-![Dashboard Overview](Screenshot 2026-01-05 142427.png)
+![Dashboard Overview](dashboard_overview.png)
